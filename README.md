@@ -1,1 +1,1 @@
-# C-Users-xedua-OneDrive-Escritorio-MCC-I-Research-Thesis_Confirmatory_Experiments
+This repository contains all the models, instances and results of the confirmatory experiments from my MSc in Computer Science Thesis
